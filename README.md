@@ -1,2 +1,2 @@
 # Q-Bot
-The code for developing and testing the quantitative trading algorithm.
+The code for developing and testing Trilliard's quantitative trading algorithm (powered by machine learning).
